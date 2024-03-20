@@ -71,7 +71,7 @@ if (!isset($user_id)) {
                   <p> your orders : <span>
                         <?php echo $fetch_orders['total_products']; ?>
                      </span> </p>
-                  <p> total price : <span>$
+                  <p> total price : <span>₹
                         <?php echo $fetch_orders['total_price']; ?>/-
                      </span> </p>
                   <p> payment status : <span
